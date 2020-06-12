@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1589421203 source:c:\users\daniel\desktop\progra\trabajos practicos\cadenas\main.c
+	"main.h"
+
+1589420511 c:\users\daniel\desktop\progra\trabajos practicos\cadenas\main.h
+	<stdio.h>
+	<string.h>
+	"cadena.h"
+
+1589421494 source:c:\users\daniel\desktop\progra\trabajos practicos\cadenas\cadena.c
+	"cadena.h"
+
+1589421059 c:\users\daniel\desktop\progra\trabajos practicos\cadenas\cadena.h
+
